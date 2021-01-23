@@ -19,9 +19,9 @@ namespace ArithmeticProblemsx4
             Console.WriteLine("After the 3rd number is entered I will use my power to show you the average.");
             Console.WriteLine("Enter the first number:  ");
 
-            string inputFirstNumber = Console.ReadLine();
+            //string inputFirstNumber = Console.ReadLine();
 
-            double number1 = double.Parse(inputFirstNumber);
+            double number1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("\nEnter the second number:  ");
 
