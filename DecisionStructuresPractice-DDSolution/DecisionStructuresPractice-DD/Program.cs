@@ -29,13 +29,13 @@ namespace DecisionStructuresPractice_DD
             // }
 
             //question 2
-            //double costOfAdmission;
+            //int costOfAdmission;
             //string inputTempAge;
 
             //Console.WriteLine("We will determine the cost of admission for a movie theatre.");
             //Console.Write("Please enter your age - be honest:  ");
             //inputTempAge = Console.ReadLine();
-            //costOfAdmission = double.Parse(inputTempAge);
+            //costOfAdmission = int.Parse(inputTempAge);
 
             //if (costOfAdmission < 7)
             //{
