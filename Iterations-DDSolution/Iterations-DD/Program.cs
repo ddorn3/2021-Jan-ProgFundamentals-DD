@@ -70,6 +70,21 @@ namespace Iterations_DD
             //  all marks have been entered, calculate the average.
             //The highest mark for any student is 100.
             //The lowest mark for any student is 0.
+
+            //requirements
+            // data: counter for marks entered (int)
+            //       totalling variable (int)
+            //       final avg variable (rounded(int) or round(double,1))
+            //Processing:  interative logic
+            //              prompt, read, sum, check for next entry
+            //              : what will be the terminating value
+            //              could one use a character (string) to terminate ie x
+            //              : calculate and display the number of students and average
+
+            //declare my variables
+
+
+
             }//eo main
     }
 }
